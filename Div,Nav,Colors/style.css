@@ -1,0 +1,39 @@
+#maimHeading {
+  background-color: #da70d6;
+  border: 10px solid #90ee90;
+  border-radius: 30px;
+  box-shadow: 10px 10px 10px #000000;
+  text-align: center;
+  font-size: 2rem;
+}
+
+div {
+  display: inline-block;
+  background-color: #20b2aa;
+  border: 5px solid rgb(0, 0, 0);
+  border-radius: 30px;
+  width: 300px;
+  text-align: center;
+  text-align: justify;
+  padding: 60px;
+  margin: 28px;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.navDiv {
+  text-decoration: none;
+  padding: 5px;
+  margin: 5px;
+}
+
+#backgroundColor {
+  background-color: rgb(211, 211, 211);
+}
